@@ -11,6 +11,7 @@ Angular skeleton with using latest angular version with some extra features incl
 * [Twitter Bootstrap]
 * [node.js] - evented I/O for the backend
 * [jQuery] - :)
+* [scss]
 
 ### Installation
 In order to use angular-scaffold:
@@ -39,3 +40,4 @@ MIT
    [@tjholowaychuk]: <http://twitter.com/tjholowaychuk>
    [express]: <http://expressjs.com>
    [Angular]: <http://angular.io>
+   [scss]: <https://sass-lang.com/>
