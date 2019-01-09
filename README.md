@@ -33,11 +33,8 @@ License
 
 MIT
 
-
    [node.js]: <http://nodejs.org>
    [Twitter Bootstrap]: <http://twitter.github.com/bootstrap/>
    [jQuery]: <http://jquery.com>
-   [@tjholowaychuk]: <http://twitter.com/tjholowaychuk>
-   [express]: <http://expressjs.com>
    [Angular]: <http://angular.io>
    [scss]: <https://sass-lang.com/>
