@@ -9,7 +9,6 @@ Angular skeleton with using latest angular version with some extra features incl
 
 * [Angular]
 * [Twitter Bootstrap]
-* [node.js] - evented I/O for the backend
 * [jQuery] - :)
 * [scss]
 
