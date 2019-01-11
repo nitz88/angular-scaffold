@@ -9,7 +9,7 @@ Angular skeleton with using latest angular version with some extra features incl
 
 * [Angular]
 * [Twitter Bootstrap]
-* [jQuery] - :)
+* [jQuery]
 * [scss]
 
 ### Installation
